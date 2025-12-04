@@ -24,3 +24,16 @@ The sample was sourced from Carolina Biological Supply, where it was fixed and s
 Micro-CT scanning took place at the University of Arizona Nanofabrication Laboratory by Paul Gignac. Parameters included 150 kV, 120 micro-Amps, 2400 rotation steps, and 3-times image averaging. No filtration was used.
 
 A screenshot from the data capture stage is included with the repository.
+
+| Structure | Definition |
+|-----------|------------|
+| Sclera | Tough outer layer of the eye that protects the delicate inner parts. |
+| Cornea | Clear, dome-shaped structure at the front of the eye that helps to focus incoming light. |
+| Iris | Colored part of the eye that controls the size of the pupil and therefore the amount of light that enters the eye. |
+| Pupil | Dark, round opening in the center of the iris that changes size in response to light. |
+| Lens | Transparent structure located behind the pupil that further focuses the incoming light. |
+| Vitreous humor | Clear, jelly-like substance that fills the space between the lens and the retina. |
+| Retina | Thin layer of tissue that lines the back of the eye and contains photoreceptor cells that are sensitive to light. |
+| Optic nerve | Bundle of nerves that transmits visual information from the retina to the brain. |
+| Choroid | Thick, vascular layer of tissue that lies between the sclera and the retina and provides blood supply to the eye. |
+| Ciliary body | Structure containing ciliary muscle and processes that controls lens accommodation via zonular fibers and produces aqueous humor. |
