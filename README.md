@@ -25,6 +25,8 @@ Micro-CT scanning took place at the University of Arizona Nanofabrication Labora
 
 A screenshot from the data capture stage is included with the repository.
 
+The following terms appear in the repistory color table. There anatomical definitions are provided here:
+
 | Structure | Definition |
 |-----------|------------|
 | Sclera | Tough outer layer of the eye that protects the delicate inner parts. |
