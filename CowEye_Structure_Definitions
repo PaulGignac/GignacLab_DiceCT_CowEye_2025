@@ -1,5 +1,6 @@
 The following terms appear in the repistory color table. There anatomical definitions are provided here:
 
+```markdown
 | Structure | Definition |
 |-----------|------------|
 | Sclera | Tough outer layer of the eye that protects the delicate inner parts. |
@@ -12,3 +13,5 @@ The following terms appear in the repistory color table. There anatomical defini
 | Optic nerve | Bundle of nerves that transmits visual information from the retina to the brain. |
 | Choroid | Thick, vascular layer of tissue that lies between the sclera and the retina and provides blood supply to the eye. |
 | Ciliary body | Structure containing ciliary muscle and processes that controls lens accommodation via zonular fibers and produces aqueous humor. |
+```
+
