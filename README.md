@@ -15,7 +15,7 @@ _Base Segmentation of lens and partial globe of the eye_
 
 
 
-Preparation and Imaging History:
+## Preparation and Imaging History:
 
 Cow eye, fixed and stained, was CT scanned at 39 microns (isometric voxels) using a Shimadzu InspeXio micro-CT scanner and resampled to 41 microns for GitHub Distribution.
 
@@ -26,6 +26,8 @@ Micro-CT scanning took place at the University of Arizona Nanofabrication Labora
 A screenshot from the data capture stage is included with the repository.
 
 The following terms appear in the repistory color table. There anatomical definitions are provided here:
+
+### Explanation of terms
 
 | Structure | Definition |
 |-----------|------------|
