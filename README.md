@@ -41,3 +41,11 @@ The following terms appear in the repistory color table. There anatomical defini
 | Optic nerve | Bundle of nerves that transmits visual information from the retina to the brain. |
 | Choroid | Thick, vascular layer of tissue that lies between the sclera and the retina and provides blood supply to the eye. |
 | Ciliary body | Structure containing ciliary muscle and processes that controls lens accommodation via zonular fibers and produces aqueous humor. |
+
+
+## Funding
+
+Funding
+
+These data were generated through funding from the National Science Foundation (DBI-2301409; Collaborative Research: MorphoCloud: A Cloud Powered, Open-source Platform for Research, Teaching and Collaboration in 3D Digital Morphology and Beyond)
+
