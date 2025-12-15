@@ -45,7 +45,5 @@ The following terms appear in the repistory color table. There anatomical defini
 
 ## Funding
 
-Funding
-
 These data were generated through funding from the National Science Foundation (DBI-2301409; Collaborative Research: MorphoCloud: A Cloud Powered, Open-source Platform for Research, Teaching and Collaboration in 3D Digital Morphology and Beyond)
 
